@@ -533,6 +533,10 @@ button:hover {
     margin: 1.625rem 0 3.125rem;
     font-weight: 300;
 }
+.cases .devices {
+    margin: auto;
+    width: 60%;
+}
 .cases .devices > li {
     width: 33.3333333%;
     display: inline-block;
